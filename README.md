@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soufiane
-- 👀 I’m a Data Professional interessted in Data Analytics , Business Intelligence  and Aritificial Inteligence 
+- 👀 I’m a Data Professional interessted in Data Analytics , Business Intelligence  and ML/AI
 - 💞️ I’m looking to collaborate on all topis related to Data Science
 - 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/soufiane-foundi/
                         Gmail: soufianefoundi@gmail.com  
