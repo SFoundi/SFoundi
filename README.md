@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SFoundi
-- 👀 I’m interested in Machine Learning , Aritificial Inteligence and Data Science in general
-- 🌱 I’m currently learning  Data Science 
+- 👋 Hi, I’m Soufiane
+- 👀 I’m a Data Professional interessted in Data Analytics , Business Intelligence  and Aritificial Inteligence 
 - 💞️ I’m looking to collaborate on all topis related to Data Science
 - 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/soufiane-foundi/
                         Gmail: soufianefoundi@gmail.com  
